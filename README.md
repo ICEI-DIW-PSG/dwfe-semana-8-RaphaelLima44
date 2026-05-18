@@ -3,11 +3,13 @@
 Nesta atividade, você fazer exercícios de programação para vai praticar a manipulação de objetos e arrays em JavaScript, passando pela definição de dados em notação **JSON (JavaScript Object Notation)**, acessando propriedades e itens.
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Raphael Ruan Victor Leite de Lime 
+- Matricula: 917322
 
 ## Prints do console do navegador
 
-<<  COLOQUE A IMAGEM - LISTAGEM DE TÍTULOS - AQUI >>
+### LISTAGEM DE TÍTULOS
+![Print listagem de títulos](public/imgs/Print1.png)
 
-<<  COLOQUE A IMAGEM - PÁGINA COM O RESUMO - AQUI >>
+### PÁGINA COM O RESUMO
+![Print resumo](public/imgs/Print2.png)
